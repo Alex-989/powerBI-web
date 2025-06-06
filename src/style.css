@@ -10,6 +10,7 @@ html, body {
   height: 100%;
   font-family: 'Arial', sans-serif;
   background-color: #f4f4f9;
+  background-image: url('https://th.bing.com/th/id/R.6c2f5e6b5ca807c9a801a2d131e6aadd?rik=Y9hqL42V2wUlig&pid=ImgRaw&r=0'); /* Cambia por la URL de tu imagen */
 }
 
 /* body usa flex para centrar, pero sin limitar el tamaño */
